@@ -1,0 +1,58 @@
+Autosaving every 5 seconds
+No such comm target registered: jupyter.widget.control
+No such comm: 2fc1c921-6107-4e5c-97ec-159c7afab275
+WARNING: adata.X seems to be already log-transformed.
+/home/yenhsian/miniconda3/lib/python3.11/site-packages/scanpy/preprocessing/_highly_variable_genes.py:220: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  disp_grouped = df.groupby('mean_bin')['dispersions']
+leiden completed, time=1.8s
+kmed_L1 (K = 1) completed, time=30.7s
+kmed_L1 (K = 2) completed, time=109.4s
+kmed_L1 (K = 3) completed, time=66.9s
+kmed_L1 (K = 4) completed, time=152.7s
+kmed_L1 (K = 5) completed, time=174.9s
+kmed_L1 (K = 6) completed, time=184.0s
+kmed_L1 (K = 7) completed, time=298.4s
+kmed_L1 (K = 8) completed, time=383.2s
+kmed_L2 (K = 1) completed, time=24.1s
+kmed_L2 (K = 2) completed, time=31.4s
+kmed_L2 (K = 3) completed, time=99.8s
+kmed_L2 (K = 4) completed, time=161.1s
+kmed_L2 (K = 5) completed, time=265.7s
+kmed_L2 (K = 6) completed, time=236.0s
+kmed_L2 (K = 7) completed, time=488.8s
+kmed_L2 (K = 8) completed, time=1296.7s
+kmed_inf (K = 1) completed, time=25.1s
+kmed_inf (K = 2) completed, time=54.0s
+kmed_inf (K = 3) completed, time=58.2s
+kmed_inf (K = 4) completed, time=149.4s
+kmed_inf (K = 5) completed, time=250.0s
+kmed_inf (K = 6) completed, time=196.3s
+kmed_inf (K = 7) completed, time=337.6s
+kmed_inf (K = 8) completed, time=955.0s
+kmed_cos (K = 1) completed, time=201.4s
+kmed_cos (K = 2) completed, time=271.2s
+kmed_cos (K = 3) completed, time=375.4s
+kmed_cos (K = 4) completed, time=974.0s
+kmed_cos (K = 5) completed, time=1025.1s
+kmed_cos (K = 6) completed, time=3305.6s
+kmed_cos (K = 7) completed, time=2613.0s
+kmed_cos (K = 8) completed, time=3570.2s
+kmed_manhattan (K = 1) completed, time=27.4s
+kmed_manhattan (K = 2) completed, time=93.8s
+kmed_manhattan (K = 3) completed, time=59.3s
+kmed_manhattan (K = 4) completed, time=134.6s
+kmed_manhattan (K = 5) completed, time=165.4s
+kmed_manhattan (K = 6) completed, time=172.4s
+kmed_manhattan (K = 7) completed, time=269.8s
+kmed_manhattan (K = 8) completed, time=1017.1s
+kmed_L1 (K = 5) completed, time=225.0s
+kmed_L2 (K = 7) completed, time=1082.8s
+kmed_inf (K = 7) completed, time=245.6s
+kmed_cos (K = 6) completed, time=1513.5s
+kmed_manhattan (K = 6) completed, time=157.9s
+leiden:  0.44432228740885715
+kmed L1: 0.15975644688061372
+kmed L2: 0.2732085969316871
+kmed inf: 0.1759862306502918
+kmed cos: 0.2418182053973244
+kmed manhattan: 0.16885764226834377
